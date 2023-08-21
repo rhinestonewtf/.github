@@ -17,7 +17,7 @@ The key components that we are building are:
 - A developer platform
 - A wallet SDK
 
-Lean more by taking a look at our [docs](https://docs.rhinestone.wtf).
+Learn more by taking a look at our [docs](https://docs.rhinestone.wtf).
 
 ## Building Modules
 
