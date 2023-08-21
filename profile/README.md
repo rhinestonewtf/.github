@@ -1,3 +1,5 @@
+<img src="logo.png" alt="rhinestone logo" align="right" width="120" height="120" style="border-radius:20px"/>
+
 # rhinestone
 
 Creating permissionless wallet innovation
