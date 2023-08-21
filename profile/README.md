@@ -1,6 +1,6 @@
 # rhinestone
 
-Creating permissionless wallet innovation.
+Creating permissionless wallet innovation
 
 ## Overview
 
@@ -19,7 +19,7 @@ Lean more by taking a look at our [docs](https://docs.rhinestone.wtf).
 
 ## Building Modules
 
-- Module building and testing framework: [Module boilerplate](https://github.com/rhinestonewtf/module-boilerplate)
+- Module building and testing framework: [ModuleKit](https://github.com/rhinestonewtf/modulekit)
 
 ## Adapters
 
@@ -41,4 +41,4 @@ Lean more by taking a look at our [docs](https://docs.rhinestone.wtf).
 
 If you believe you have found a security vulnerability, we kindly ask you to responsibly disclose this to us and not open a public issue.
 
-Please email security@rhinestone.wtf or dm our twitter to disclose any security vulnerabilities.
+Please email <security@rhinestone.wtf> or dm our twitter to disclose any security vulnerabilities.
