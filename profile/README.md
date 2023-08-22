@@ -16,7 +16,7 @@ Our developer stack:
 - WalletKit: An integration kit that allows wallets to use third-party modular components in their UI
 - Module Registry: A permissionless registry that allows developers to register their modules and auditors to attest to their security
 
-Lean more by taking a look at our [docs](https://docs.rhinestone.wtf).
+Learn more by taking a look at our [docs](https://docs.rhinestone.wtf).
 
 ## Building Modules
 
