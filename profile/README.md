@@ -6,9 +6,7 @@ Creating permissionless wallet innovation
 
 ## Overview
 
-At Rhinestone, we’re building a platform that facilitates smart account module development, from quick start frameworks and third-party tooling, all the way through to guided audits and installation on the user’s account. We provide distribution through a module marketplace and turn key business modules for monetization.
-
-Our role doesn’t just start and end with onchain innovation. We believe that in order to bring module applications to life, developers need access to UI components and sandboxed areas within the wallet application in order to marry onchain innovation with tailored, wallet native, UX.
+At Rhinestone, we’re building a platform that facilitates module development, from development frameworks and third-party tooling, all the way through to automated audits and installation on the user’s account. We provide distribution through a module marketplace and turnkey business models for monetization.
 
 Our developer stack:
 
