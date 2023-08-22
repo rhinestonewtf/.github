@@ -10,18 +10,18 @@ At Rhinestone, we’re building a platform that facilitates smart account module
 
 Our role doesn’t just start and end with onchain innovation. We believe that in order to bring module applications to life, developers need access to UI components and sandboxed areas within the wallet application in order to marry onchain innovation with tailored, wallet native, UX.
 
-The key components that we are building are:
+Our developer stack:
 
-- The module registry
-- The rhinestone protocol
-- A developer platform
-- A wallet SDK
+- ModuleKit: A development framework to streamline the process of building, testing and deploying modules for different smart account implementations
+- WalletKit: An integration kit that allows wallets to use third-party modular components in their UI
+- Module Registry: A permissionless registry that allows developers to register their modules and auditors to attest to their security
 
 Lean more by taking a look at our [docs](https://docs.rhinestone.wtf).
 
 ## Building Modules
 
 - Module building and testing framework: [ModuleKit](https://github.com/rhinestonewtf/modulekit)
+- ModuleKit template: [Template](https://github.com/rhinestonewtf/module-template)
 
 ## Adapters
 
@@ -30,8 +30,8 @@ Lean more by taking a look at our [docs](https://docs.rhinestone.wtf).
 
 ## Registry
 
-- Module registry singleton: [Reference impementation](https://github.com/rhinestonewtf/registry)
-- Advanced registry use-cases: [Registry integrations](https://github.com/rhinestonewtf/registry-integrations)
+- Module Registry singleton: [Reference impementation](https://github.com/rhinestonewtf/registry)
+- Advanced Registry use-cases: [Registry integrations](https://github.com/rhinestonewtf/registry-integrations)
 
 ## Resources
 
