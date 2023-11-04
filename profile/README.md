@@ -23,12 +23,12 @@ Learn more by taking a look at our [docs](https://docs.rhinestone.wtf).
 
 ## Adapters
 
-- Adapter standard: [ERC-7484](https://github.com/ethereum/EIPs/pull/7484)
+- Adapter standard: [ERC-7484](https://eips.ethereum.org/EIPS/eip-7484)
 - Reference implementations: (coming soon)
 
 ## Registry
 
-- Module Registry singleton: [Reference impementation](https://github.com/rhinestonewtf/registry)
+- Module Registry: [Reference impementation](https://github.com/rhinestonewtf/registry)
 - Advanced Registry use-cases: [Registry integrations](https://github.com/rhinestonewtf/registry-integrations)
 
 ## Resources
