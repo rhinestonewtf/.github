@@ -20,16 +20,17 @@ Learn more by taking a look at our [docs](https://docs.rhinestone.wtf).
 
 - Module building and testing framework: [ModuleKit](https://github.com/rhinestonewtf/modulekit)
 - ModuleKit template: [Template](https://github.com/rhinestonewtf/module-template)
-
-## Adapters
-
-- Adapter standard: [ERC-7484](https://eips.ethereum.org/EIPS/eip-7484)
-- Reference implementations: (coming soon)
+- Module examples: [Examples](https://github.com/rhinestonewtf/modulekit-examples)
 
 ## Registry
 
 - Module Registry: [Reference impementation](https://github.com/rhinestonewtf/registry)
 - Advanced Registry use-cases: [Registry integrations](https://github.com/rhinestonewtf/registry-integrations)
+
+## ERCs
+
+- Adapter standard: [ERC-7484](https://eips.ethereum.org/EIPS/eip-7484)
+- Modular Account standard: [ERC-7579](https://github.com/erc7579/)
 
 ## Resources
 
