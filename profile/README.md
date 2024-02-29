@@ -20,7 +20,7 @@ Learn more by taking a look at our [docs](https://docs.rhinestone.wtf).
 
 - Module building and testing framework: [ModuleKit](https://github.com/rhinestonewtf/modulekit)
 - ModuleKit template: [Template](https://github.com/rhinestonewtf/module-template)
-- Module examples: [Examples](https://github.com/rhinestonewtf/modulekit-examples)
+- Module examples: [Examples](https://github.com/rhinestonewtf/modulekit/tree/main/examples)
 
 ## Registry
 
