@@ -18,27 +18,27 @@ Learn more by taking a look at [our docs](https://docs.rhinestone.wtf/).
 
 - Framework for building and testing modules: [ModuleKit](https://github.com/rhinestonewtf/modulekit)
 - Template to get started with ModuleKit: [ModuleTemplate](https://github.com/rhinestonewtf/module-template)
+- Module security: [Security Guide](https://github.com/rhinestonewtf/module-security)
 - Sandbox for testing modules in a frontend environment: [ModuleSandbox](https://github.com/rhinestonewtf/sandbox)
 
 ## Rhinestone Protocol
 
 - Module Registry: [Registry](https://github.com/rhinestonewtf/registry)
 - Monetizing Modules: [Rhinestone Payments](https://github.com/rhinestonewtf/LicenseManager)
-- Module security: [Security Guide](https://github.com/rhinestonewtf/module-security)
 - Protocol data: [Subgraphs](https://github.com/rhinestonewtf/subgraphs)
 
 ## Community Standards
 
 - Registry Adapter standard: [ERC-7484](https://eips.ethereum.org/EIPS/eip-7484)
-- Modular Account standard: [ERC-7579](https://github.com/erc7579/)
+- Modular Account standard: [ERC-7579](https://erc7579.com/)
 - Safe Adapter for ERC-7579: [Safe7579](https://github.com/rhinestonewtf/safe7579)
 
 ## Libraries
 
 - Linked list: [SentinelList](https://github.com/rhinestonewtf/sentinellist)
 - Multi-signature checker: [CheckNSignatures](https://github.com/rhinestonewtf/checknsignatures)
-- ERC-4337 compliant bytes storafe: [AssociatedBytes](https://github.com/rhinestonewtf/associatedBytesLib)
-- Validate ERC-4337 specs in Foundry: [ERC4337Validation](https://github.com/rhinestonewtf/erc4337-validation)
+- ERC-4337 compliant bytes storage: [AssociatedBytes](https://github.com/rhinestonewtf/associatedBytesLib)
+- ERC-4337 specs validation in Foundry: [ERC4337Validation](https://github.com/rhinestonewtf/erc4337-validation)
 
 ## Demos
 
