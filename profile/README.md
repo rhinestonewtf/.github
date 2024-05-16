@@ -2,9 +2,7 @@
 
 <img src="logo.png" alt="rhinestone logo" align="right" width="120" height="120" style="border-radius:20px"/>
 
-Creating permissionless wallet innovation
-
-## Overview
+**Creating permissionless wallet innovation**
 
 At Rhinestone, we’re building infrastructure and tooling that facilitates module development and usage at the app layer. Our mission is to transform smart accounts into an open platform for innovation. Below you'll find all our most relevant tools and services including ModuleKit, an abstraction library for building modules, and ModuleSDK, a typescript library for installing modules and using them within an application.
 
