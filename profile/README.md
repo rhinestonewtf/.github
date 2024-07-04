@@ -10,9 +10,9 @@ Learn more by taking a look at [our docs](https://docs.rhinestone.wtf/).
 
 ## Using Modules
 
-- Frontend SDK: [Module SDK](https://github.com/rhinestonewtf/module-sdk)
+- Frontend SDK: [ModuleSDK](https://github.com/rhinestonewtf/module-sdk)
 - Core modules: [Core modules](https://github.com/rhinestonewtf/core-modules)
-- Prototypes of more advanced modules (currently unaudited): [Experimental modules](https://github.com/rhinestonewtf/core-modules)
+- Prototypes of more advanced modules (currently unaudited): [Experimental modules](https://github.com/rhinestonewtf/experimental-modules)
 
 ## Building Modules
 
@@ -24,7 +24,6 @@ Learn more by taking a look at [our docs](https://docs.rhinestone.wtf/).
 ## Rhinestone Protocol
 
 - Module Registry: [Registry](https://github.com/rhinestonewtf/registry)
-- Monetizing Modules: [Rhinestone Payments](https://github.com/rhinestonewtf/LicenseManager)
 - Protocol data: [Subgraphs](https://github.com/rhinestonewtf/subgraphs)
 
 ## Community Standards
@@ -37,12 +36,8 @@ Learn more by taking a look at [our docs](https://docs.rhinestone.wtf/).
 
 - Linked list: [SentinelList](https://github.com/rhinestonewtf/sentinellist)
 - Multi-signature checker: [CheckNSignatures](https://github.com/rhinestonewtf/checknsignatures)
-- ERC-4337 compliant bytes storage: [AssociatedBytes](https://github.com/rhinestonewtf/associatedBytesLib)
+- ERC-4337 compliant bytes storage: [FlatBytes](https://github.com/rhinestonewtf/flatbytes)
 - ERC-4337 specs validation in Foundry: [ERC4337Validation](https://github.com/rhinestonewtf/erc4337-validation)
-
-## Demos
-
-- tbd
 
 ## Further Resources
 
