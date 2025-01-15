@@ -11,8 +11,8 @@ Learn more by taking a look at [our docs](https://docs.rhinestone.wtf/).
 ## Using Modules
 
 - Frontend SDK: [ModuleSDK](https://github.com/rhinestonewtf/module-sdk)
-- Module SDK Tutorials: [ModuleSDK](https://github.com/rhinestonewtf/module-sdk-tutorials)
-- Module SDK Demos: [ModuleSDK](https://github.com/rhinestonewtf/module-sdk-demos)
+- Module SDK Tutorials: [ModuleSDK Tutorials](https://github.com/rhinestonewtf/module-sdk-tutorials)
+- Module SDK Demos: [ModuleSDK Demos](https://github.com/rhinestonewtf/module-sdk-demos)
 - Core modules: [Core modules](https://github.com/rhinestonewtf/core-modules)
 - Prototypes of more advanced modules (currently unaudited): [Experimental modules](https://github.com/rhinestonewtf/experimental-modules)
 
