@@ -1,29 +1,50 @@
-# rhinestone
+# Rhinestone
 
 <img src="logo.png" alt="rhinestone logo" align="right" width="120" height="120" style="border-radius:20px"/>
 
 **Creating permissionless wallet innovation**
 
-At Rhinestone, we’re building infrastructure and tooling that facilitates module development and usage at the app layer. Our mission is to transform smart accounts into an open platform for innovation. Below you'll find all our most relevant tools and services including ModuleKit, an abstraction library for building modules, and ModuleSDK, a typescript library for installing modules and using them within an application.
+Rhinestone is the simplest way to build powerful self-custodial Web3 applications. We remove the complexities of smart accounts and chains (via chain abstraction) so that you can focus on what matters to your users.
 
-Learn more by taking a look at [our docs](https://docs.rhinestone.wtf/).
+Rhinestone is a smart account platform powered by intents. We provide infrastructure and tooling to build on any compatible smart account, extend the account’s features with modules, or perform near-instant crosschain intents.
 
-## Using Modules
+Rhinestone is the ideal tech stack for developers to build web3 apps with seamless UX.
 
-- Frontend SDK: [ModuleSDK](https://github.com/rhinestonewtf/module-sdk)
-- Module SDK Tutorials: [ModuleSDK Tutorials](https://github.com/rhinestonewtf/module-sdk-tutorials)
-- Module SDK Demos: [ModuleSDK Demos](https://github.com/rhinestonewtf/module-sdk-demos)
-- Core modules: [Core modules](https://github.com/rhinestonewtf/core-modules)
-- Prototypes of more advanced modules (currently unaudited): [Experimental modules](https://github.com/rhinestonewtf/experimental-modules)
+Learn more by taking a look at [our docs](https://docs.rhinestone.dev/).
+
+## Build on Smart Accounts
+
+Embed smart accounts into your wallet/application or upgrade an EOA (via EIP-7702) through our simple SDK. Enable simple user onboarding, abstract away gas for your users, and enable permissions via Smart Sessions to deliver one-click experiences or self-custodial automations.
+
+Start with our Quickstart guide and progress through the SDK to learn how to enable an omnichain smart account application.
+
+- [Rhinestone SDK](https://docs.rhinestone.dev/sdk/overview)
+- [Quickstart Quide](https://docs.rhinestone.dev/sdk/quickstart)
+- [Smart Sessions](https://docs.rhinestone.dev/sdk/quickstart)
+
+## Integrate Chain Abstraction
+
+Rhinestone’s transaction infrastructure is powered by intents. Whether your users are transacting on the same chain or crosschain, you only need to integrate one API and make one simple request - we call these transactions “omnichain transactions”.
+
+- Embbed crosschain intents into your application with [Omnichain Transactions](https://docs.rhinestone.dev/sdk/core/send-omnichain-transaction)
+- Perform instant crosschain swaps with [Omnichain Swaps](https://docs.rhinestone.dev/sdk/chain-abstraction/omnichain-swaps)
 
 ## Building Modules
 
-- Framework for building and testing modules: [ModuleKit](https://github.com/rhinestonewtf/modulekit)
-- Template to get started with ModuleKit: [ModuleTemplate](https://github.com/rhinestonewtf/module-template)
-- Module security: [Security Guide](https://github.com/rhinestonewtf/module-security)
-- Sandbox for testing modules in a frontend environment: [ModuleSandbox](https://github.com/rhinestonewtf/sandbox)
+Rhinestone wrote the standard for modular smart accounts: ERC-7579, a minimal standard for modular smart accounts. This is the foundation for Rhinestone’s account model. The major benefit of modularity is composability and extensibility.
 
-## Rhinestone Protocol
+If you’re looking to customize your account beyond our core features, check out ModuleKit and our extensive library of modules.
+
+- Build custom components to extend the feature set of smart accounts with [ModuleKit](https://docs.rhinestone.dev/build-modules/guides/testing/using-accounts)
+- Use our templates to get started with building modules - [Module Templates](https://github.com/rhinestonewtf/module-template)
+- Module SDK Demos: [ModuleSDK Demos](https://github.com/rhinestonewtf/module-sdk-demos)
+- Module SDK Tutorials: [ModuleSDK Tutorials](https://github.com/rhinestonewtf/module-sdk-tutorials)
+- Prototypes of more advanced modules (currently unaudited): [Experimental modules](https://github.com/rhinestonewtf/experimental-modules)
+- Core modules: [Core modules](https://github.com/rhinestonewtf/core-modules)
+- Sandbox for testing modules in a frontend environment: [ModuleSandbox](https://github.com/rhinestonewtf/sandbox)
+- Module security: [Security Guide](https://github.com/rhinestonewtf/module-security)
+
+## Module Registry
 
 - Module Registry: [Registry](https://github.com/rhinestonewtf/registry)
 - Protocol data: [Subgraphs](https://github.com/rhinestonewtf/subgraphs)
@@ -43,11 +64,9 @@ Learn more by taking a look at [our docs](https://docs.rhinestone.wtf/).
 
 ## Further Resources
 
-- Developer docs: [Our docs](https://docs.rhinestone.wtf/)
-- Module ideas: [Non-exhaustive list](https://rhinestone.notion.site/Module-ideas-for-product-inspo-338100a2c99540f490472b8aa839da11)
+- Developer docs: [Our docs](https://docs.rhinestone.dev/)
 - A list of modular accounts and modules: [awesome modular accounts](https://github.com/rhinestonewtf/awesome-modular-accounts)
-- Writings: [Our blog](https://blog.rhinestone.wtf)
-- Wallet reference implementation: [Demo video](https://rhinestone.wtf/demo)
+- Writings: [Our blog](https://blog.rhinestone.dev)
 - Brand guidelines: [Our brand](https://github.com/rhinestonewtf/brand)
 
 ## Contributing
